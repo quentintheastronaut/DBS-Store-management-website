@@ -1,0 +1,10 @@
+.button {
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    justify-self: center;
+    background-color: aqua;
+}
+
+@font-face { src: url('font/Gilroy-ExtraBold.otf'); font-family: gilroy; }
